@@ -1,4 +1,4 @@
-package br.digital.com.aulaKotlinSemObjetos.exercicio01
+package br.digital.com.aulaKotlin.exercicio01
 
 class Cachorro(
         var nome:String,

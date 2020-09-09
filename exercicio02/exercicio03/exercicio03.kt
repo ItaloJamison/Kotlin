@@ -1,4 +1,4 @@
-package br.digital.com.aulaKotlinSemObjetos.exercicio02.exercicio03
+package br.digital.com.aulaKotlin.exercicio02.exercicio03
 
 fun main(){
     val atleta01 = Atleta(

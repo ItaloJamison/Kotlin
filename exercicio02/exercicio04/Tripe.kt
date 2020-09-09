@@ -1,4 +1,4 @@
-package br.digital.com.aulaKotlinSemObjetos.exercicio02.exercicio04
+package br.digital.com.aulaKotlin.exercicio02.exercicio04
 
 class Tripe(
         var dobrado: Boolean,

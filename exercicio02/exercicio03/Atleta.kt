@@ -1,4 +1,4 @@
-package br.digital.com.aulaKotlinSemObjetos.exercicio02.exercicio03
+package br.digital.com.aulaKotlin.exercicio02.exercicio03
 
 class Atleta(
         var nome:String,

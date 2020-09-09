@@ -1,4 +1,4 @@
-package br.digital.com.aulaKotlinSemObjetos.exercicio02.exercicio02
+package br.digital.com.aulaKotlin.exercicio02.exercicio02
 
 class JogadorDeFutebol(
         var nome:String,

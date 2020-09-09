@@ -1,4 +1,4 @@
-package br.digital.com.aulaKotlinSemObjetos.exercicio00
+package br.digital.com.aulaKotlin.exercicio00
 
 fun main(){
     println("Exercicio 1: "+ exercise1(2,4,7))

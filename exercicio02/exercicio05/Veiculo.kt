@@ -1,4 +1,4 @@
-package br.digital.com.aulaKotlinSemObjetos.exercicio02.exercicio05
+package br.digital.com.aulaKotlin.exercicio02.exercicio05
 
 class Veiculo(
         val marca:String,

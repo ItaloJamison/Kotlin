@@ -1,4 +1,4 @@
-package br.digital.com.aulaKotlinSemObjetos.exercicio02.exercicio01
+package br.digital.com.aulaKotlin.exercicio02.exercicio01
 
 class Conta(
         var numeroDaConta:Int,
